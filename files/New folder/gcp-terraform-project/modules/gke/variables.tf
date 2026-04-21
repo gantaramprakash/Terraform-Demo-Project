@@ -1,0 +1,12 @@
+variable "project_id"          { type = string }
+variable "region"              { type = string }
+variable "environment"         { type = string }
+variable "cluster_name"        { type = string }
+variable "subnet_id"           { type = string }
+variable "pods_cidr_name"      { type = string }
+variable "services_cidr_name"  { type = string }
+variable "node_count"          { type = number }
+variable "machine_type"        { type = string }
+variable "min_nodes"           { type = number }
+variable "max_nodes"           { type = number }
+variable "gke_sa_email"        { type = string }
