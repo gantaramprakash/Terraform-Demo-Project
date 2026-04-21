@@ -1,4 +1,4 @@
-# 🏗️ GCP Infrastructure — House of Hyderabad Biryani
+# 🏗️ GCP Infrastructure — Terraform 
 > **Production-ready Terraform project** for GCP — built for Infrastructure Specialist interview preparation.
 
 ---
@@ -530,5 +530,6 @@ PR opened
 ---
 
 *Built with ❤️ for interview preparation — House of Hyderabad Biryani Infrastructure*
-#   T e r r a f o r m - D e m o - P r o j e c t  
+#   T e r r a f o r m - D e m o - P r o j e c t 
+ 
  
